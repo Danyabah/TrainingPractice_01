@@ -1,0 +1,15 @@
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\bin\Debug\net6.0\ADV_Task_04.exe
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\bin\Debug\net6.0\ADV_Task_04.deps.json
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\bin\Debug\net6.0\ADV_Task_04.runtimeconfig.json
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\bin\Debug\net6.0\ADV_Task_04.dll
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\bin\Debug\net6.0\ADV_Task_04.pdb
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\ADV_Task_04.csproj.AssemblyReference.cache
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\ADV_Task_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\ADV_Task_04.AssemblyInfoInputs.cache
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\ADV_Task_04.AssemblyInfo.cs
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\ADV_Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\ADV_Task_04.dll
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\refint\ADV_Task_04.dll
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\ADV_Task_04.pdb
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\ADV_Task_04.genruntimeconfig.cache
+C:\Users\Даня\Desktop\TrainingPractice_01\ADV_Task_04\obj\Debug\net6.0\ref\ADV_Task_04.dll
